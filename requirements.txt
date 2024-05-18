@@ -1,3 +1,8 @@
 scikit-learn
-
-
+streamlit
+pickle
+joblib
+numpy
+pandas
+scipy
+threadpoolctl

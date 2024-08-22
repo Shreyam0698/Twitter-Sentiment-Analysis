@@ -11,7 +11,7 @@ Streamlit Deployment: The application is deployed using Streamlit, allowing for 
 Installation:
 1. Clone the repository:
 bash
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
+git clone [https://github.com/your-username/twitter-sentiment-analysis.git](https://github.com/Shreyam0698/Twitter-Sentiment-Analysis.git)
 cd twitter-sentiment-analysis
 
 2. Install the required dependencies:

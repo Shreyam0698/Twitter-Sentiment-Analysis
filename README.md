@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis
+# Twitter Sentiment Analysis
 This repository contains a Twitter Sentiment Analysis project that detects positive and negative sentiments in tweets using Machine Learning and Natural Language Processing (NLP) techniques. The project is designed to analyze and classify the sentiment of tweets, making it useful for social media monitoring, customer feedback analysis, and more.
 
 Features:

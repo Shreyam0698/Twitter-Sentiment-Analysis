@@ -17,7 +17,7 @@ git clone https://github.com/Shreyam0698/Twitter-Sentiment-Analysis.git
 bash
 pip install -r requirements.txt
 
-3.Run the application:
+3. Run the application:
 bash
 streamlit run app.py
 
